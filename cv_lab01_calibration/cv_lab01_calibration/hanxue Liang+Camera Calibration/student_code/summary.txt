@@ -1,0 +1,11 @@
+****************************************************
+THIS IS AN AUTOMATICALLY GENERATED FILE TO SUMMARIZE
+THE CORRECTNESS OF YOUR ALGORITHM IMPLEMENTATION FOR
+  COMPUTER VISION CLASS LAB01: CAMERA CALIBRATION   
+****************************************************
+
+******* Summary for data normalization *******
+DN: 2D centroid check passed...
+DN: 3D centroid check passed...
+DN: 2D scale check failed... -4
+DN: 3D scale check failed... -4
